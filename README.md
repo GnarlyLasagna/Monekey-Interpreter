@@ -11,7 +11,7 @@ Monkey programming language interpreter designed in [_Writing An Interpreter In 
 Install the Monkey interpreter using `go get`:
 
 ```sh
-$ go get -v -u github.com/skatsuta/monkey-interpreter/...
+$ go get -v -u git@github.com:GnarlyLasagna/Monkey-Interpreter.git
 ```
 
 Then run REPL:
