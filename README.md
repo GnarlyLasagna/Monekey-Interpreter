@@ -17,7 +17,7 @@ $ go get -v -u git@github.com:GnarlyLasagna/Monkey-Interpreter.git
 Then run REPL:
 
 ```sh
-$ $GOPATH/bin/monkey-interpreter > go run main.go
+$ go run main.go
 Hello evandolatowski! This is the Monkey programming language!
 Feel free to type in commands
 >> 
