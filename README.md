@@ -1,7 +1,5 @@
 # Monkey interpreter
 
-[![GoDoc](https://godoc.org/github.com/skatsuta/monkey-interpreter?status.svg)](https://godoc.org/github.com/skatsuta/monkey-interpreter)
-
 
 Monkey programming language interpreter designed in [_Writing An Interpreter In Go_](https://interpreterbook.com/).
 
