@@ -163,8 +163,8 @@ Quote(3)
 ### Clone the repo
 
 ```bash
-git clone https://github.com/xyz/zipzod@latest
-cd zipzod
+git clone git@github.com:GnarlyLasagna/Monkey-Interpreter.git
+cd Monkey-Interpreter
 ```
 
 ### Build the project
@@ -176,7 +176,7 @@ go build
 ### Run the project
 
 ```bash
-./zipzod -i ./input -o ./output.zip
+./Monkey-Interpreter -i ./input -o ./output.zip
 ```
 
 ### Run the tests
