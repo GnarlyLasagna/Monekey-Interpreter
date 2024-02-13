@@ -158,7 +158,7 @@ Quote((2 + 2)) # Unevaluated code
 Quote(3)
 ```
 
-## 🤝 Contributing
+## Contributing
 
 ### Clone the repo
 
